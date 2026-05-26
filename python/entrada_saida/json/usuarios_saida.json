@@ -1,0 +1,26 @@
+[
+    {
+        "nome": "Enzo",
+        "idade": 20,
+        "email": "enzo@gmail.com",
+        "senha": "enzo123"
+    },
+    {
+        "nome": "Ana",
+        "idade": 18,
+        "email": "ana@gmail.com",
+        "senha": "ana123"
+    },
+    {
+        "nome": "Carlos",
+        "idade": 25,
+        "email": "carlos@gmail.com",
+        "senha": "carlos123"
+    },
+    {
+        "nome": "joao",
+        "idade": 43,
+        "email": "joao@outlook.com",
+        "senha": "joao123"
+    }
+]
