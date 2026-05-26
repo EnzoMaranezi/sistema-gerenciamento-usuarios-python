@@ -109,6 +109,23 @@ source venv/bin/activate
 ```bash
 venv\Scripts\activate
 ```
+# Ferramenta Recomendada
+
+Para visualizar e analisar o banco de dados SQLite de forma gráfica, é recomendado instalar um visualizador SQLite.
+
+Sugestão:
+
+- DB Browser for SQLite
+
+Download:
+https://sqlitebrowser.org/
+
+Com ele é possível:
+
+- visualizar tabelas
+- executar consultas SQL
+- editar registros
+- analisar o banco `usuarios.db`
 
 ---
 
